@@ -1,6 +1,7 @@
 # UVa-solution
 
-This is a collection of my currently solved UVa CP problems. [UVaOJ sites](https://uva.onlinejudge.org/)
+This is a collection of my currently solved UVa CP problems. [UVaOJ site](https://uva.onlinejudge.org/)
+
 I'm using the book 'Competitive Programming 3 by Steven Halim as reference
 
 
